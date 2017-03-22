@@ -35,7 +35,6 @@ public class YALApplication extends MultiDexApplication {
 
     /**
      * 获得实例
-     *
      * @return
      */
     public static YALApplication getInstance() {
