@@ -15,7 +15,6 @@ import okhttp3.OkHttpClient;
 /**
  * Created by luke on 2017/3/22.
  */
-
 public class YALApplication extends MultiDexApplication {
     private long startTime = 0;
     public static YALApplication app;
