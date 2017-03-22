@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#d72e2c</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--APP主色-->
+    <color name="maincolor">#d72e2c</color>
+    <color name="hint_color">#cccccc</color>
+    <color name="white">#ffffff</color>
+    <color name="blank">#000</color>
+</resources>

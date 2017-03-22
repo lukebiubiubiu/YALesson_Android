@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YALesson_Android</string>
+    <!--网络提示-->
+    <string name="message_server_unavailable">无法连接到服务器</string>
+    <string name="unrecoverable_error">发生未知异常,连接失败</string>
+    <string name="http_exception_error">网络异常，请求超时</string>
+    <string name="socket_exception_error">亲，访问数据超时，服务器无响应，请重试</string>
+    <string name="socket_exception">连接失败，请重试！</string>
+    <string name="request_outtime">您的网络缓慢，请求服务器超时</string>
+    <string name="main">主页</string>
+    <string name="lesson">课程</string>
+    <string name="commit">交流</string>
+    <string name="center">个人</string>
+    <string name="jiazaizhong">加载中.....</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
