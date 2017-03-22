@@ -12,7 +12,7 @@ import com.shanguang.lesson.base.BaseFragment;
  * A simple {@link Fragment} subclass.
  */
 public class CenterFragment extends BaseFragment {
-
+    private String aa;
 
     @Override
     protected int setLayout(LayoutInflater inflater) {
