@@ -21,7 +21,6 @@ public class YALApplication extends MultiDexApplication {
     public static YALApplication app;
     private boolean sdkInited = false;
     private List<Activity> activities = new ArrayList<Activity>();
-
     @Override
     public void onCreate() {
         super.onCreate();
