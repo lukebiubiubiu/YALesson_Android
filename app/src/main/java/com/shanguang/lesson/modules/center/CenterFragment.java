@@ -13,8 +13,6 @@ import com.shanguang.lesson.base.BaseFragment;
  */
 public class CenterFragment extends BaseFragment {
     private String aa;
-
-
     @Override
     protected int setLayout(LayoutInflater inflater) {
         return R.layout.fragment_center;
